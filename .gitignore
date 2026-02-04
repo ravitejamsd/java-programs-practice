@@ -1,1 +1,4 @@
-/bin/
+.classpath
+.project
+JavaProgramsPavan2.iml
+.settings
