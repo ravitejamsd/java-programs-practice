@@ -32,6 +32,8 @@ public class AssignmentOperators {
 		 d%=2; //d=d%2 10%2  remainder is 0
 		 System.out.println(d);
 		 
+	
+		 
 	}
 
 }
